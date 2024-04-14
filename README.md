@@ -24,4 +24,4 @@
 - Error icons should not be visible in the form by default.
 - Clicking on submit should show a modal which would show the final values based on above calculations.
 
-- Published Link: vijaytaxcalc.ccbp.tech
+- Published Link: https://vijaytaxcalc.ccbp.tech
